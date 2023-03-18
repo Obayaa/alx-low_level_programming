@@ -3,13 +3,13 @@
 /**
  * main - main function
  *
- * Return: alwys 0
+ * Return: always 0
  */
 
 int main(void)
 {
 	char i;
-	for (i = 'a' ; i <= 'z' ; 1++)
+	for (i = 'a' ; i <= 'z' ; i++)
 		putchar(i);
 	putchar('\n');
 	return (0);
