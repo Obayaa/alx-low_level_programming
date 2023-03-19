@@ -6,7 +6,7 @@
  * Return: always 0
  */
 
-int void(main)
+int main(void)
 {
 	char i;
 
